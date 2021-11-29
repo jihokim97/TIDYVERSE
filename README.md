@@ -218,9 +218,11 @@ Revision/Addition Description and Link:
 
 # Jiho K
 Initial Description and Link:
+https://github.com/jihokim97/FALL2021TIDYVERSE/blob/Tidyverse/Tidyverse%20Jiho%20Kim%20607.Rmd
 
 
 Revision/Addition Description and Link:
+https://github.com/jihokim97/TIDYVERSE/blob/main/Tidyverse%20Extend.Rmd
 
 
 # Joseph F
